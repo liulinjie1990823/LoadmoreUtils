@@ -7,11 +7,6 @@ android {
     defaultConfig {
         minSdkVersion project.ANDROID_BUILD_MIN_SDK_VERSION as int
         targetSdkVersion project.ANDROID_BUILD_TARGET_SDK_VERSION as int
-        //app版本code
-        versionCode 2
-        //app版本号
-        versionName '1.0.1'
-
     }
     buildTypes {
         release {

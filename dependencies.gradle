@@ -1,7 +1,7 @@
 ext {
     //官方支持库的版本
 //    supportLibrary = '25.0.0'
-    supportLibrary = '24.2.1'
+    supportLibrary = '26.0.2'
 //      supportLibrary = '24.2.0'
 //    supportLibrary = '23.3.0'
 //    supportLibrary = '23.2.1'
